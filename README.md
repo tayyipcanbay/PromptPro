@@ -19,7 +19,12 @@
 
 ## Project Overview
 
-This project is a web application that allows users to interact with a chatbot through both text and image inputs. The application consists of a frontend built with React and a backend built with Flask.
+This project is a comprehensive web application that allows users to interact with an intelligent chatbot through both text and image inputs. It includes a frontend built with React and a backend powered by Flask. The application leverages Tesseract OCR for image processing and OpenAI's GPT-3.5 model for generating responses. Users can authenticate using their email and token, and then engage with the chatbot to get assistance or information. 
+
+Check out the project demonstration in the video below:
+
+[![Project Video](https://youtu.be/vQKSom6TVeE.jpg)](https://youtu.be/vQKSom6TVeE)
+
 
 ## Features
 
