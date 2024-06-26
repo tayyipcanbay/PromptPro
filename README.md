@@ -27,7 +27,7 @@ This project is a comprehensive web application that allows users to interact wi
 
 Check out the project demonstration in the video below:
 
-[![Project Video](https://youtu.be/vQKSom6TVeE.jpg)](https://youtu.be/vQKSom6TVeE)
+[![Project Video](https://img.youtube.com/vi/vQKSom6TVeE/0.jpg)](https://youtu.be/vQKSom6TVeE)
 
 
 ## Features
